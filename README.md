@@ -38,7 +38,7 @@ O Projeto funciona como um Cronometro onde existe a opção dos Botões Star, St
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://https://ocronometro.netlify.app/)
+Você pode visualizar o layout do projeto através [DESSE LINK](https://https://ocronometro.netlify.app)
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
